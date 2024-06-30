@@ -1,0 +1,60 @@
+body{
+    background-color: orange;
+    width: 100%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.program h1{
+    color:#fff;
+    width: 100%;
+    
+}
+.program{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    text-align: center;
+}
+.calculater{
+
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(0,0,0, 0.4);
+    position: relative;
+    margin: auto;
+    top:20px;
+    width: 30%;
+
+}
+.calculater h1{
+    padding-top: 20px;
+    text-align: center;
+}
+.calculater p{
+    white-space: nowrap;
+    overflow: hidden;
+    font-weight: 600px;
+    text-overflow: ellipsis;
+    margin: auto;
+    margin-bottom: 20px;
+}
+#resulter{
+    height: 20px;
+    text-align: end;
+    background-color: #fff;
+    width: 60%;
+}
+table{
+    margin: auto;
+    padding-bottom: 20px;
+}
+.But{
+    width: 30px;
+}
+.Butao{
+    height: 60px;
+}
+.bot{
+    width: 65px;
+}
